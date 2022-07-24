@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with other packages to help you in your development. These packages are: [Twitter Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/) for your styling needs and [Prisma](https://www.prisma.io/) for your database needs.
+This is a [Next.js](https://nextjs.org/) project - The [React](https://reactjs.org/) Framework for Production - bootstrapped with other packages to help you in your development. These packages are: [Twitter Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/) rebuilt for react using [React Bootstrap](https://react-bootstrap.github.io/) for your styling needs and [Prisma](https://www.prisma.io/) for your database needs.
 
 ## Getting Started
 
