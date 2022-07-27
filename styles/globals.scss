@@ -1,1 +1,23 @@
 @import "~bootstrap/scss/bootstrap";
+
+.banner {
+  background-color: $gray-700;
+  padding-top: 150px;
+  padding-bottom: 150px;
+  color: $white;
+}
+
+.footer {
+  margin-top: 50px;
+  color: $white;
+  background-color: $gray-700;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  a {
+    color: $white;
+    text-decoration: none;
+    &:hover {
+      text-decoration:underline;
+    }
+  }
+}
